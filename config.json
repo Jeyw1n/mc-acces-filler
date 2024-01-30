@@ -1,0 +1,13 @@
+{
+    "file_path": "windows-firm.accdb",
+    "abs_path": false,
+
+    "table": "Users",
+    "lines_count": 16,
+    "fields": [
+        "user",
+        "address",
+        "phone"
+    ],
+    "has_id": false
+}
