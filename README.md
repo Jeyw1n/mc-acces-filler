@@ -1,4 +1,4 @@
-# MC-Acces Filler
+# MC Acces Filler
 Скрипт, для автозаполения таблиц "Microsoft Access" случайными данными.
 ## Установка
 Зависимости:
